@@ -12,8 +12,6 @@
 4. 🤸 [Quick Start](#quick-start)
 
 
-## 🚨 Tutorial
-
 
 
 
