@@ -31,7 +31,7 @@ import c from "./c.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import jpMorgan from './jpMorgan.jpg';
+import jpMorgan from './JPMorgan.jpg';
 import hackerrankLogo from './hackerrankLogo.jpg';
 import leetcodeLogo from './leetcodeLogo.png';
 import servicenowLogo from './servicenowLogo.png';
